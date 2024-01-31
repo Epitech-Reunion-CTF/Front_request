@@ -46,7 +46,7 @@
             echo $flag;
             if ($flag == "true") {
                 echo "<p>Affichage flag = $flag</p>";
-                echo "<p>le flag est tqtt frrro</p>";
+                echo "<p>le flag est EPI{error404badrequest}</p>";
 
             }
         }

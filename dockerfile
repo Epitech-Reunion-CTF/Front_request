@@ -5,4 +5,4 @@ FROM php:7.4-apache
 COPY index.php /var/www/html/
 
 # Exposition du port 80 pour le serveur web Apache
-EXPOSE 80
+ EXPOSE 80
